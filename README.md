@@ -70,5 +70,5 @@ This project demonstrates a simple and effective machine learning pipeline for m
 It is ideal for beginners to understand data preprocessing, model training, evaluation, and prediction.
 
 ## 👤 Author
-Sheldon
+Vandhitha
 Entry-Level AI & Machine Learning Enthusiast
